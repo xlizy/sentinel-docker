@@ -16,4 +16,5 @@ docker run --name sentinel \
 ##### 可自行修改start.sh文件,传递自定义参数,如-Dsentinel.dashboard.auth.password=123456自定义密码
 ### Sentinel官方文档
 > https://github.com/alibaba/Sentinel/wiki/%E4%BB%8B%E7%BB%8D
+
 > https://github.com/spring-cloud-incubator/spring-cloud-alibaba/wiki/Sentinel
